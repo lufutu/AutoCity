@@ -13,13 +13,13 @@ AutoCity()
 ```
 ## Options
 
-Property   | Meaning | Default
----------- | --------------------------------------------------------------------------------------------
-element | The HTML element input field will use for revice data. You can use "#" for id and "." for class | .autocity
-element_custom_class      | Custom class of input field will display for searching| form-control
-place_holder | Place holder text for input field will display for searching
-data        |  Value insert to input field, have two value `string` or `object`. String is simple name of city, object is an JSON object include all data of city | string
-country | Add country for filter like 'us','fr','vn'.. | All country
+| Property             | Meaning                                                                                                                                            | Default       |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| element              | The HTML element input field will use for revice data. You can use "#" for id and "." for class                                                    | .autocity     |
+| element_custom_class | Custom class of input field will display for searching                                                                                             | form-control  |
+| place_holder         | Place holder text for input field will display for searching                                                                                       | Empty         |
+| data                 | Value insert to input field, have two value `string` or `object`. String is simple name of city, object is an JSON object include all data of city | string        |
+| country              | Add country for filter like 'us','fr','vn'..                                                                                                       | All Countries |
 
 ## Callback
 
