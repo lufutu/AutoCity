@@ -19,7 +19,7 @@ AutoCity()
 | element_custom_class | Custom class of input field will display for searching                                                                                             | form-control  |
 | place_holder         | Place holder text for input field will display for searching                                                                                       | Empty         |
 | data                 | Value insert to input field, have two value `string` or `object`. String is simple name of city, object is an JSON object include all data of city | string        |
-| country              | Add country for filter like 'us','fr','vn'..                                                                                                       | All Countries |
+| country              | Add country for filter like 'en','fr','vi'..                                                                                                       | All Countries |
 
 ## Callback
 
