@@ -1,6 +1,6 @@
 # AutoCity
 An autocomplete input field to search city based on Google Map Places.
-Don't require JQuery library.
+You don't need JQuery library.
 Be free to use!
 
 ## Usage
